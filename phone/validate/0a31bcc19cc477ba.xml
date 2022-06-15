@@ -1,0 +1,25 @@
+<annotation>
+	<folder>validate</folder>
+	<filename>0a31bcc19cc477ba.jpg</filename>
+	<path>/validate/0a31bcc19cc477ba.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>validate</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>191.36</xmin>
+			<ymin>22.428918</ymin>
+			<xmax>945.92</xmax>
+			<ymax>659.41602</ymax>
+		</bndbox>
+	</object>
+</annotation>
